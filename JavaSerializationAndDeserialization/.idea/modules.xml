@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaOOP/JavaOOP.iml" filepath="$PROJECT_DIR$/JavaOOP/JavaOOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaSerializationAndDeserialization - Original.iml" filepath="$PROJECT_DIR$/.idea/JavaSerializationAndDeserialization - Original.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaExercises/javaExercises.iml" filepath="$PROJECT_DIR$/javaExercises/javaExercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaOOPProject/javaOOPProject.iml" filepath="$PROJECT_DIR$/javaOOPProject/javaOOPProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleJavaProject/simpleJavaProject.iml" filepath="$PROJECT_DIR$/simpleJavaProject/simpleJavaProject.iml" />
+    </modules>
+  </component>
+</project>
